@@ -3,7 +3,7 @@ import React from "react"
 const HeroBanner = () => {
     return (
         <section>
-            HeroBanner
+            Banner
         </section>
     )
 }
